@@ -43,4 +43,4 @@ It should refuse to answer any general questions and focus only on what is avail
 
 # How it works
 
-The assistant used RAG (Retrieval-Augmented Generation) to expand an existing AI model's knowledge. I first sanitize the HTML documentation to remove markdown, menus, and anything that isn't relevant, saving the results as plain text. I then use Chroma to create a database from those text files, Finally, the assistant takes user questions, feeds a prompt to the selected model and tells it to only look at the database and not to embellish or make things up.
+The assistant uses RAG (Retrieval-Augmented Generation) to expand an existing AI model's knowledge. I first sanitize the HTML documentation to remove markdown, menus, and anything that isn't relevant, saving the results as plain text. I then use Chroma to create a database from those text files, Finally, the assistant takes user questions, feeds a prompt to the selected model and tells it to only look at the database and not to embellish or make things up.
