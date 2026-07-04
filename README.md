@@ -23,7 +23,7 @@ To download a model, type:
 
 `ollama pull <model_name>`
 
-Now, to run this assistant, first clone acquire this repo either by downloading and extracting the ZIP or by typing:
+To run the assistant, first acquire this repo either by downloading and extracting the ZIP or by typing:
 
 `git clone https://github.com/BrianHanke/DccDocsHelper.git`
 
