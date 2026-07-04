@@ -7,9 +7,9 @@ from rich.markdown import Markdown
 import time
 
 DB_DIR = "../db"
-COLLECTION_NAME = "gaffer_docs"
-MODEL = 'granite4.1:8b'
 TOPIC = "Gaffer"
+COLLECTION_NAME = f"{TOPIC.lower()}_docs"
+MODEL = 'granite4.1:8b'
 
 console = Console()
 
