@@ -15,7 +15,7 @@ You'll also need to install a few Python packages with _pip_:
 
 `pip install ollama chromadb rich`
 
-You'll also need to install an AI model or two. You can see a full list here: https://ollama.com/search
+And you'll need an AI model or two. You can find the full list here: https://ollama.com/search
 
 I'm still testing, but so far _llama3.1_ from Meta is a fine choice. I'm also liking the _Granite_ models from IBM.
 
