@@ -27,7 +27,7 @@ To run the assistant, first acquire this repo either by downloading and extracti
 
 `git clone https://github.com/BrianHanke/DccDocsHelper.git`
 
-Edit line 11 of _assistant.py_ to point to the model you want to use.
+Edit line 12 of _assistant.py_ to point to the model you want to use.
 
 Finally, navigate to the repo's src folder:
 
