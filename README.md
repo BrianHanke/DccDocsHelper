@@ -19,7 +19,7 @@ And you'll need an AI model or two. You can find the full list here: https://oll
 
 I'm still testing, but so far _llama3.1_ from Meta is a fine choice. I'm also liking the _Granite_ models from IBM.
 
-To down a model type:
+To download a model, type:
 
 `ollama pull <model_name>`
 
