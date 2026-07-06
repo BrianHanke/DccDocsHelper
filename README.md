@@ -17,7 +17,7 @@ You'll also need to install a few Python packages with _pip_:
 
 And you'll need an AI model or two. You can find the full list here: https://ollama.com/search
 
-I'm still testing, but so far _llama3.1_ from Meta is a fine choice. I'm also liking the _Granite_ models from IBM.
+I'm still testing, but so far _gemma4_ from Google is a fine choice. I'm also liking _granite4.1:8b_ from IBM. There are many that don’t work well at all, including _deepseek-r1_, _mistral_ and _gemma3_.
 
 To download a model, type:
 
